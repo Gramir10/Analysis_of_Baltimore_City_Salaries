@@ -1,4 +1,4 @@
-# Analysis_of_Baltimore_City_Salaries
+# Analysis of Baltimore_City Salaries
 The midterm (Expanded) version of the my previous project. Through the sampling of employees from 2014 to 2019, we can create a predictive model to estimate future budgets.
 
 Baltimore is known for many things such as its aquarium or quirky city culture, however, the unfortunate fact of the matter is that it's also a city known for its steady string of corruption scandals (enough to have its own archive even! https://baltimorefishbowl.com/stories/tag/corruption/). This begs the question, where is Baltimore City's funding going? Who's getting paid more than they should, and who should be getting paid more? How can we track systemic corruption between city departments?
