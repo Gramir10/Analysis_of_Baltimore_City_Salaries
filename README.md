@@ -45,7 +45,8 @@ From these final two graphs, we actually see that there isn't much overlap betwe
 Using this data, we can identify which departments are over/underpaid and should be flagged for review. This system could be using for cities other than Baltimore in the future, and it can also be implemented to monitor Baltimore's departments in the future.</br>
 </br>
 # Flaws in the Data
-.
+.Weekly, Part-Time, and Retired Employees are in the data set, and are not differentiated in a standard marker year-to-year.
+.There are inconsitent spellings of the departments and job titles, as such data had to be repaired to ensure duplicate departments were not created.
 </br>
 # Possible Future Expansions to this Project
 .
