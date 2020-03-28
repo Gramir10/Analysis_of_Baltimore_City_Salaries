@@ -21,19 +21,19 @@ Now that we have our initial population, we now investigate the difference betwe
  
 AVERAGE GROSS SALARY AS A FUNCTION OF AVERAGE ANNUAL SALARIES
 ![alt text](https://github.com/Gramir10/Analysis_of_Baltimore_City_Salaries/blob/master/a1.png)
-ANY GRAPH DESCRIPTION/EXPLANATION
+Our model accounts for 80% of cases (R-Squared value)
 
 From here, we can now filter out the two populations we're most interested in via Pivot Tabes: The significantly overpaid population, and the significantly underpaid population.
 
 TOTAL # OF OVERPAID EMPLOYEES BY DEPARTMENT
 ![alt text](https://github.com/Gramir10/Analysis_of_Baltimore_City_Salaries/blob/master/o1.png)
 
-GRAPH DESCRIPTION
+We see the police department is the largest offender.
 
 TOTAL # OF UNDERPAID EMPLOYEES BY DEPARTMENT
 ![alt text](https://github.com/Gramir10/Analysis_of_Baltimore_City_Salaries/blob/master/u1.png)
 
-GRAPH DESCRIPTION
+We see Parks-Rec is underfunded.
 
 From both of these graphs, we can see that there is a large number of individuals in a wide variety of departments that are both over/underpaid. Overlaying these two graphs on top of each other, we get the following:
 
