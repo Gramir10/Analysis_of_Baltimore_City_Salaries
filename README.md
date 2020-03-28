@@ -38,7 +38,7 @@ GRAPH DESCRIPTION
 From both of these graphs, we can see that there is a large number of individuals in a wide variety of departments that are both over/underpaid. Overlaying these two graphs on top of each other, we get the following:
 
 BALTIMORE'S OVERPAID, UNDERPAID, AND TOTAL EMPLOYEE COUNT(REMANING CITY DEPARTMENTS)
-![Alt Text](url_here)
+![alt text](https://github.com/Gramir10/Analysis_of_Baltimore_City_Salaries/blob/master/d20.png)
 
 For clarity's sake, here is a final analysis of Baltimore's 6 largest departments:
 
@@ -51,7 +51,7 @@ Using this data, we can identify which departments are over/underpaid and should
 .There are inconsitent spellings of the departments and job titles, as such data had to be repaired to ensure duplicate departments were not created.
 </br>
 # Possible Future Expansions to this Project
-.
+Using ANOVA to find variance between and within clusters.
 </br>
 # References
 https://data.baltimorecity.gov/browse?category=City+Government
