@@ -26,14 +26,13 @@ ANY GRAPH DESCRIPTION/EXPLANATION
 From here, we can now filter out the two populations we're most interested in via Pivot Tabes: The significantly overpaid population, and the significantly underpaid population.
 
 TOTAL # OF OVERPAID EMPLOYEES BY DEPARTMENT
-![alt text](https://github.com/Gramir10/Analysis_of_Baltimore_City_Salaries/blob/master/p1.png)
-![alt text](https://github.com/Gramir10/Analysis_of_Baltimore_City_Salaries/blob/master/p2.png)
-![alt text](https://github.com/Gramir10/Analysis_of_Baltimore_City_Salaries/blob/master/p3.png)
-![alt text](https://github.com/Gramir10/Analysis_of_Baltimore_City_Salaries/blob/master/p4.png)
+![alt text](https://github.com/Gramir10/Analysis_of_Baltimore_City_Salaries/blob/master/o1.png)
+
 GRAPH DESCRIPTION
 
 TOTAL # OF UNDERPAID EMPLOYEES BY DEPARTMENT
-![Alt Text](url_here)
+![alt text](https://github.com/Gramir10/Analysis_of_Baltimore_City_Salaries/blob/master/u1.png)
+
 GRAPH DESCRIPTION
 
 From both of these graphs, we can see that there is a large number of individuals in a wide variety of departments that are both over/underpaid. Overlaying these two graphs on top of each other, we get the following:
