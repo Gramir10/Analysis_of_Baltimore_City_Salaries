@@ -41,6 +41,7 @@ BALTIMORE'S OVERPAID, UNDERPAID, AND TOTAL EMPLOYEE COUNT(REMANING CITY DEPARTME
 ![alt text](https://github.com/Gramir10/Analysis_of_Baltimore_City_Salaries/blob/master/d20.png)
 
 For clarity's sake, here is a final analysis of Baltimore's 6 largest departments:
+![alt text](https://github.com/Gramir10/Analysis_of_Baltimore_City_Salaries/blob/master/l6.png)
 
 From these final two graphs, we actually see that there isn't much overlap between groups in underpaid and groups in overpaid departments. Departments in Baltimore are generally one or the other.</br>
 </br>
