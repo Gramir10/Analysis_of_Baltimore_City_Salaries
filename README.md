@@ -22,6 +22,7 @@ Now that we have our initial population, we now investigate the difference betwe
 AVERAGE GROSS SALARY AS A FUNCTION OF AVERAGE ANNUAL SALARIES
 ![alt text](https://github.com/Gramir10/Analysis_of_Baltimore_City_Salaries/blob/master/a1.png)
 Our model accounts for 80% of cases (R-Squared value)
+Red dots show trendline of gross=annual salary (optimal case)
 
 From here, we can now filter out the two populations we're most interested in via Pivot Tabes: The significantly overpaid population, and the significantly underpaid population.
 
