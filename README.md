@@ -20,7 +20,7 @@ With these filters in place, we have now defined our population and can now move
 Now that we have our initial population, we now investigate the difference between Expected Pay vs Actual Pay. To define a significant difference from the actual pay, we check whether the individuals in each data point are either over or underpaid by at least a standard deviation. </br>
  
 AVERAGE GROSS SALARY AS A FUNCTION OF AVERAGE ANNUAL SALARIES
-![Alt Text](url_here)
+![alt text](https://github.com/Gramir10/Analysis_of_Baltimore_City_Salaries/blob/master/a1.png)
 ANY GRAPH DESCRIPTION/EXPLANATION
 
 From here, we can now filter out the two populations we're most interested in via Pivot Tabes: The significantly overpaid population, and the significantly underpaid population.
