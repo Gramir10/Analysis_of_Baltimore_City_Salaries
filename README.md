@@ -7,10 +7,12 @@ How do identify which departments should be flagged for further review? In this 
 # Identifying our initial population
 Our goal is to check which departments have been over/under paying their employees. We will be using Baltimore City Employee Data from 2014, 2016, 2018, 2019. From this data, the parameters we're most interested in are: What was actually earned (Gross Salary), Person's Name, Person's Position/Title, What Department are they part of? </br>
 From these parameters, we can now hone in on the population in the data that we're interested in investigating in. Using vlookup and several filters, we can now filter our population out by the following parameters:</br>
+</br>
 :white_medium_small_square: Person must X exist all 4 years (Name doesn’t disappear from the set)</br>
 :white_medium_small_square: Person X must work all 4 years within the city</br>
 :white_medium_small_square: Person X must not have a listed gross or annual salary of $0</br>
 :white_medium_small_square: Person X must have been employed before May of 2013</br>
+</br>
 These parameters serve to filter out bad data points (individuals whos there is insufficient or incorrect data on, or individuals whos pay also accounts for a previous year's salary).</br>
 With these filters in place, we have now defined our population and can now move onto the actual analysis of the data.</br>
 </br>
@@ -39,14 +41,14 @@ BALTIMORE'S OVERPAID, UNDERPAID, AND TOTAL EMPLOYEE COUNT(REMANING CITY DEPARTME
 For clarity's sake, here is a final analysis of Baltimore's 6 largest departments:
 
 From these final two graphs, we actually see that there isn't much overlap between groups in underpaid and groups in overpaid departments. Departments in Baltimore are generally one or the other.</br>
-</br>>
+</br>
 Using this data, we can identify which departments are over/underpaid and should be flagged for review. This system could be using for cities other than Baltimore in the future, and it can also be implemented to monitor Baltimore's departments in the future.</br>
 </br>
 # Flaws in the Data
-
+.
 </br>
 # Possible Future Expansions to this Project
-
+.
 </br>
 # References
 https://data.baltimorecity.gov/browse?category=City+Government
